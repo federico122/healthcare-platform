@@ -27,3 +27,6 @@ ID: 12608342568857789252
 1. Wellness Journey Dashboard
     ID: aa1b6df11d85401687a1424d74b2d162
 
+node_modules/
+.env
+.DS_Store
