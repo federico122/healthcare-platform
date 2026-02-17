@@ -42,6 +42,12 @@ node_modules/
 ├── README.md       ← Istruzioni
 ├── .gitignore      ← File da ignorare
 └── package.json    ← Dipendenze
+
+
+
+npm install react react-dom
+npm install express
+npm install mongodb
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
