@@ -35,6 +35,13 @@ node_modules/
   "name": "healthcare-platform",
   "version": "1.0.0",
   "description": "Piattaforma digitale per il benessere",
+
+  healthcare-platform/
+├── frontend/       ← Il sito web (quello che vede l'utente)
+├── backend/        ← Il server (il "motore")
+├── README.md       ← Istruzioni
+├── .gitignore      ← File da ignorare
+└── package.json    ← Dipendenze
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
