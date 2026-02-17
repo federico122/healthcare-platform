@@ -30,3 +30,13 @@ ID: 12608342568857789252
 node_modules/
 .env
 .DS_Store
+
+{
+  "name": "healthcare-platform",
+  "version": "1.0.0",
+  "description": "Piattaforma digitale per il benessere",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
